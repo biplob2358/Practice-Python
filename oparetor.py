@@ -12,3 +12,4 @@ print(str(a)+"/"+str(b)+"="+str(f))
 print(str(a)+"%"+str(b)+"="+str(x))
 if(c>5):
     print("sdrsf")
+
