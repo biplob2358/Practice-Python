@@ -17,11 +17,11 @@ print(y)
 
 
 
-# #str
-# h=("Biplob")
-# print(type(h))
-#
-# #tuple
-# F=("Biplob",)
-# print(type(F))
+#str
+h=("Biplob")
+print(type(h))
+
+#tuple
+F=("Biplob",)
+print(type(F))
 
